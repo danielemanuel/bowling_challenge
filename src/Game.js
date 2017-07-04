@@ -17,9 +17,7 @@ Game.prototype.bowl = function() {
   this.rollScoreMethod();
   this.frameAndRoll();
   };
-
-
-
+  
 // Random generator and counter for rolls and frames
 
 Game.prototype.rollScoreMethod = function(){

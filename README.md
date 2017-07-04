@@ -4,8 +4,8 @@ Bowling Challenge
 
 Game instructions:
 
-#I have my game structured in single class which has multiple functions
-#that help the user getting the necessary information regarding his
+#The game has multiple functions that helps the user getting the
+#necessary information regarding his
 #progress in the challenge
 
 #You can roll the bowl:
@@ -32,8 +32,15 @@ Game.prototype.totalScoreUpdate();
 
 #I created a jQuery file to make the game alive on the UI and created #an index.html file as well which include audio and video format.
 #CSS file created too for more powerful animation
-#Screenshot of UI 
+#Screenshot of UI
 
+## UI
+
+![UI](screenshots/UI_screenshot.png)
+
+## Test coverage
+
+![Test coverage](screenshots/Test_coverage.png)
 
 
 * Challenge time: rest of the day and weekend, and the entire of Makersbnb week if you need it, until Monday 9am

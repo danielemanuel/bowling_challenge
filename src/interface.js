@@ -18,11 +18,8 @@ $(document).ready(function() {
   });
 
   $(window).load(function() {
-  		// Animate loader off screen
   		$(".se-pre-con").fadeOut("slow");;
   	});
-
-  
 
   function gameFunctionality() {
     $('#total_score').text(game._totalScore);
